@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @tdogtoken
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Tdog token is token is fully decentralized ThunderCore TT20 token.
+- 👀 It is an innovative deflationary token.
+- 🌱 Visit us at https://tdogtoken.github.io/tdog
+- 💞️ Contract Address: 0xda1A573d6B19F4c5207f199A1d5e97aBA02eed1F
+- 📫 View Contract Source Code: https://viewblock.io/thundercore/address/0xda1a573d6b19f4c5207f199a1d5e97aba02eed1f?tab=code
 
 <!---
 tdogtoken/tdogtoken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
