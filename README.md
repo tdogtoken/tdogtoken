@@ -1,4 +1,4 @@
-- 👋 Tdog token is token is fully decentralized ThunderCore TT20 token.
+- 👋 Tdog is an fully decentralized ThunderCore TT20 token.
 - 👀 It is an innovative deflationary token.
 - 🌱 Visit us at https://tdogtoken.github.io/tdog
 - 💞️ Contract Address: 0xda1A573d6B19F4c5207f199A1d5e97aBA02eed1F
